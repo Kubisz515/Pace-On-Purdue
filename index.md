@@ -58,8 +58,8 @@ Afterwards, the app will ask you your preferred method to pay. However, this ste
 
 ## While Using the Pace Bike
 
-Make Quick Stops – If needed, you can make a quick stop by putting your Pace bike on a pace or public rack (Pace rack =blue pin, public rack = white pin).
-End Your Ride – In order to end your ride, find a Pace or public rack, tap ‘end rental’ in the app, and slide down the orange tab. Secure the bike to the pace or public rack with the cable.
+1. Make Quick Stops – If needed, you can make a quick stop by putting your Pace bike on a pace or public rack (Pace rack =blue pin, public rack = white pin).
+1. End Your Ride – In order to end your ride, find a Pace or public rack, tap ‘end rental’ in the app, and slide down the orange tab. Secure the bike to the pace or public rack with the cable.
 
 # Going the Distances
 
