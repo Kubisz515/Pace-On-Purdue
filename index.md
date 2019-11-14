@@ -129,4 +129,4 @@ Pace cannot combat the cold weather and snow any better than a regular bicycle w
 
 # FAQ and Troubleshooting
 
-
+For questions regarding Pace, refer to http://support.ridepace.com
