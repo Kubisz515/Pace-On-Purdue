@@ -63,7 +63,7 @@ Afterwards, the app will ask you your preferred method to pay. However, this ste
 
 # Going the Distances
 
-Purdue University's campus is 2,486 acres with many locations and varying distances between them. As an undergraduate/graduate student, professor, or anyone else on campus that has a need to be, you should be informed as to what are your best available options are. This is needed in order to travel around campus effectively, and to assess whether or not Pace is your most viable option at the time. 
+According to U.S. News, Purdue University's campus is 2,486 acres. This means there are many locations and varying distances between them all over Purdue's campus. As an undergraduate/graduate student, professor, or anyone else on campus that has a need to be, you should be informed as to what are your best available options are. This is needed in order to travel around campus effectively, and to assess whether or not Pace is your most viable option at the time. 
 
 ## Shorter Distances
 
