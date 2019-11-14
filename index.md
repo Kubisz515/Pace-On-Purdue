@@ -4,6 +4,7 @@ Pace is a dockless bike sharing service Purdue has outsourced for people on camp
 
 
 # Why Use Pace?
+
 West Lafayette.in.gov’s website states, “whether it be for personal health, environmental consciousness or financial benefits; people are riding bikes everywhere. The city of West Lafayette recognizes that trend and has not only tried to give these road users what they deserve but has pushed the envelope in regards to bicycling infrastructure. With over 30 miles of paved trails for walking, running and biking that span the city, residents are provided with viable alternatives to driving their car to work.” 
 
 Narrowing in this scope, Purdue University is continually making steps not only for more bicycle accessibility and usability, but transportation in general. This means Pace has support from the city of West Lafayette. 
@@ -19,6 +20,7 @@ You have a smartphone of some kind and are able to download Pace’s app on iOS 
 You are able to afford the service’s fees and charges per use, or the monthly plans available for you to choose from. 
 
 # Pace's Prices
+
 Pace tries to be affordable, or at least, relatively affordable to most people. Undergraduate/graduate students, seniors, veterans, and even people that use EBT have options available for them to use the service. However, you don’t have to fit any of these categories to use Pace. 
 Pace vs. Buying a Bike
 You might wonder why you would use Pace rather than buy your own bicycle, and you might also be wondering if that would save you money in the long run. 
@@ -43,6 +45,7 @@ EBT Discounts: If you have EBT, EBT members automatically qualify for unlimited 
 # How to Use Pace
 
 ## In the App
+
 The Pace app is available on Apple’s App Store and Google Play. When you open the Pace app after downloading, the app will then prompt you to put your first and last name, email, and number. Your number is needed in order to verify your account, and a code will be sent to your phone with a four digit pin to enter in the app. 
 
 Afterwards, the app will ask you your preferred method to pay. However, this step can be skipped for later. Next, you will see three steps to help you use pace:
@@ -52,6 +55,7 @@ Afterwards, the app will ask you your preferred method to pay. However, this ste
 1. Unlock & Ride – Select the bike you want to ride, the lock will open automatically and you remove the cable.
 
 ## While Using the Pace Bike
+
 Make Quick Stops – If needed, you can make a quick stop by putting your Pace bike on a pace or public rack (Pace rack =blue pin, public rack = white pin).
 End Your Ride – In order to end your ride, find a Pace or public rack, tap ‘end rental’ in the app, and slide down the orange tab. Secure the bike to the pace or public rack with the cable.
 
@@ -77,9 +81,11 @@ These colleges all have specific buildings undergraduate/graduate students, or p
 For these shorter distance locations, Pace is a viable mode of transportation. 
 
 ## Longer Distances
+
 Some locations on Purdue’s campus are too far to walk and get to in a timely manner, and Pace may not be present in those areas either. For these longer distances, Pace is not a viable mode of transportation (besides Purdue University Airport), and is recommended that you use a different method. 
 
 ### Leaper X
+
 Leaper X is an emerging service Purdue will be implemented during the Fall 2019 semester. This mode of transportation is a possible substitute for Pace when it is not present. 
 
 Leaper X users from 7 a.m. to 6 p.m., riders can travel from "one of approximately 50 central, on-campus locations to a selection of perimeter destinations and back again." This will include the following:
@@ -110,9 +116,11 @@ Pace does not offer much help when weather is an issue. According to BestPlaces.
 Overall, Pace is not optimized for use in the rain or snow, and is best in the same conditions as a regular bicycle would be. For these weather conditions, it is suggested you dress accordingly (umbrella, rain jacket, winter coat, etc.) to the weather for the safest travelling. 
 
 ## Using Pace in the Rain
+
 Pace is not meant to be the answer to rain or snow, however can still be an option to choose when deciding how fast you need to get to another location. The roads, sidewalks and bike paths can all become slippery and rubber tires on bicycles, even with good treads, is subject to slipping on these surfaces. When a student is considering what to choose, it may be safer for them to use the CityBus, or just walk with an umbrella/rain jacket.
 
 ## Using Pace in the Snow
+
 Pace cannot combat the cold weather and snow any better than a regular bicycle would. Ice, black ice, lightly packed snow, sleet, or any other form of snow can still cause accidents if a student is not careful while riding over it. The CityBus is a great way for students to travel across campus if they want to escape the cold, stay warm, and do not mind to wait for it.
 
 #FAQ and Troubleshooting
