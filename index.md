@@ -12,35 +12,37 @@ Narrowing in this scope, Purdue University is continually making steps not only 
 You should use Pace if you're an undergraduate student, a graduate student, or a professor/teacher on Purdue University’s campus that needs a reliable transportation method. 
 
 Pace is especially for you if:
-You prefer using a bicycle as your mode of transportation.
-You do not own your own bike, longboard/skateboard, scooter, etc. 
+
+* You prefer using a bicycle as your mode of transportation.
+* You do not own your own bike, longboard/skateboard, scooter, etc. 
 
 Pace is available to you if:
-You have a smartphone of some kind and are able to download Pace’s app on iOS or Android. 
-You are able to afford the service’s fees and charges per use, or the monthly plans available for you to choose from. 
+
+* You have a smartphone of some kind and are able to download Pace’s app on iOS or Android. 
+* You are able to afford the service’s fees and charges per use, or the monthly plans available for you to choose from. 
 
 # Pace's Prices
 
 Pace tries to be affordable, or at least, relatively affordable to most people. Undergraduate/graduate students, seniors, veterans, and even people that use EBT have options available for them to use the service. However, you don’t have to fit any of these categories to use Pace. 
-Pace vs. Buying a Bike
+
+# Pace vs. Buying a Bike
+
 You might wonder why you would use Pace rather than buy your own bicycle, and you might also be wondering if that would save you money in the long run. 
 
 This depends on how often you plan to use Pace in general. If you are:
 
-A daily user: the annual plan would most likely be how you get your money’s worth for only $59.99. However, if you are using Pace very often it may be better for you to buy your own bike because it would be less money over the years.
-Ex. You are an undergraduate student at Purdue (and will be for the next four years) and you want a bicycle to get around campus quickly. Four years of the annual plan would cost you $239.96. If you bought your own bicycle, depending on how expensive it is, having your own bike will cost you less. 
-Occasional User: perhaps using their monthly payment method is better (see below), so you can cancel any time and you did not spend more than you needed to. 
-Ex. You don't always use Pace, but do need it from time to time. You use it for a few months, but then realize you want to use another service, don’t have the money for it anymore, or have acquired your own personal mode of transportation. In this case, you could cancel your monthly plans from reoccurring and you’ve spent way less money than you would have with the annual plan. 
+* A daily user: the annual plan would most likely be how you get your money’s worth for only $59.99. However, if you are using Pace very often it may be better for you to buy your own bike because it would be less money over the years.
+  * Ex. You are an undergraduate student at Purdue (and will be for the next four years) and you want a bicycle to get around campus quickly. Four years of the annual plan would cost you $239.96. If you bought your own bicycle, depending on how expensive it is, having your own bike will cost you less. 
+* Occasional User: perhaps using their monthly payment method is better (see below), so you can cancel any time and you did not spend more than you needed to. 
+  * Ex. You don't always use Pace, but do need it from time to time. You use it for a few months, but then realize you want to use another service, don’t have the money for it anymore, or have acquired your own personal mode of transportation. In this case, you could cancel your monthly plans from reoccurring and you’ve spent way less money than you would have with the annual plan. 
 
 Pace has a few payment plans to choose from:
 
-Unlimited 30-minute rides starting at $4.99/month: (only for the first 3 months) You can take unlimited rides up to 30 minutes for this monthly fee. After the promotional three months are over, the monthly cost is $9.99. 
+* Unlimited 30-minute rides starting at $4.99/month: (only for the first 3 months) You can take unlimited rides up to 30 minutes for this monthly fee. After the promotional three months are over, the monthly cost is $9.99. 
 Annual Plan: You can also sign up for an annual plan for $59.99. 
 Student, senior, and military discount: If you are a student, senior, or a veteren you are able to receive a 50% discount on the monthly plan for only $4.99 a month. 
-
-Pay with Cash: If you do not have a credit/debit card, Pace has partnered with PayPal Cash and PayNearMe so you can ride Pace with cash. 
-
-EBT Discounts: If you have EBT, EBT members automatically qualify for unlimited 30-minute trips for just $4.99 a month.
+* Pay with Cash: If you do not have a credit/debit card, Pace has partnered with PayPal Cash and PayNearMe so you can ride Pace with cash. 
+* EBT Discounts: If you have EBT, EBT members automatically qualify for unlimited 30-minute trips for just $4.99 a month.
 
 # How to Use Pace
 
@@ -61,21 +63,23 @@ End Your Ride – In order to end your ride, find a Pace or public rack, tap ‘
 
 # Going the Distances
 
+Purdue University's campus is 2,486 acres with many locations and varying distances between them. As an undergraduate/graduate student, professor, or anyone else on campus that has a need to be, you should be informed as to what are your best available options are. This is needed in order to travel around campus effectively, and to assess whether or not Pace is your most viable option at the time. 
+
 ## Shorter Distances
 
 Students that belong to these colleges have closer access to Pace’s docking stations: 
 
-College of Agriculture
-College of Education
-College of Engineering
-College of Exploratory Studies
-College of Health & Human Sciences
-College of Liberal Arts
-College of Management
-College of Pharmacy
-College of Purdue Polytechnic Institute
-College of Science
-College of Veterinary Medicine
+* College of Agriculture
+* College of Education
+* College of Engineering
+* College of Exploratory Studies
+* College of Health & Human Sciences
+* College of Liberal Arts
+* College of Management
+* College of Pharmacy
+* College of Purdue Polytechnic Institute
+* College of Science
+* College of Veterinary Medicine
 
 These colleges all have specific buildings undergraduate/graduate students, or professors/teachers will have to attend classes in. These specific buildings are closer to Pace docking stations than the longer distance locations (see “Longer Distances” below).
 For these shorter distance locations, Pace is a viable mode of transportation. 
@@ -90,12 +94,12 @@ Leaper X is an emerging service Purdue will be implemented during the Fall 2019 
 
 Leaper X users from 7 a.m. to 6 p.m., riders can travel from "one of approximately 50 central, on-campus locations to a selection of perimeter destinations and back again." This will include the following:
 
-Purdue University Airport
-Purdue Technology Center Aerospace
-Zucrow Laboratories
-Parking and Transportation Services
-Surplus Store
-East Airport Parking Lot
+* Purdue University Airport
+* Purdue Technology Center Aerospace
+* Zucrow Laboratories
+* Parking and Transportation Services
+* Surplus Store
+* East Airport Parking Lot
 
 Leaper X will replace both the CityBus Black Loop and the Av Tech stop on the Gold Loop for the remainder of Fall 2019 semester in the coming weeks. Students that rely on the Gold Loop and the Black Loop for their transportation instead of Pace, or just in general, might need to download the new app and use the Leaper X service instead as Pace only has a docking station at the Purdue University Airport. 
 
@@ -123,6 +127,6 @@ Pace is not meant to be the answer to rain or snow, however can still be an opti
 
 Pace cannot combat the cold weather and snow any better than a regular bicycle would. Ice, black ice, lightly packed snow, sleet, or any other form of snow can still cause accidents if a student is not careful while riding over it. The CityBus is a great way for students to travel across campus if they want to escape the cold, stay warm, and do not mind to wait for it.
 
-#FAQ and Troubleshooting
+# FAQ and Troubleshooting
 
 
