@@ -21,11 +21,11 @@ Pace is available to you if:
 * You have a smartphone of some kind and are able to download Pace’s app on iOS or Android. 
 * You are able to afford the service’s fees and charges per use, or the monthly plans available for you to choose from. 
 
-# Pace's Prices
+# Pace's Prices to Consider
 
 Pace tries to be affordable, or at least, relatively affordable to most people. Undergraduate/graduate students, seniors, veterans, and even people that use EBT have options available for them to use the service. However, you don’t have to fit any of these categories to use Pace. 
 
-# Pace vs. Buying a Bike
+## Pace vs. Buying a Bike
 
 You might wonder why you would use Pace rather than buy your own bicycle, and you might also be wondering if that would save you money in the long run. 
 
@@ -35,6 +35,8 @@ This depends on how often you plan to use Pace in general. If you are:
   * Ex. You are an undergraduate student at Purdue (and will be for the next four years) and you want a bicycle to get around campus quickly. Four years of the annual plan would cost you $239.96. If you bought your own bicycle, depending on how expensive it is, having your own bike will cost you less. 
 * Occasional User: perhaps using their monthly payment method is better (see below), so you can cancel any time and you did not spend more than you needed to. 
   * Ex. You don't always use Pace, but do need it from time to time. You use it for a few months, but then realize you want to use another service, don’t have the money for it anymore, or have acquired your own personal mode of transportation. In this case, you could cancel your monthly plans from reoccurring and you’ve spent way less money than you would have with the annual plan. 
+
+## Pace Payment Plans
 
 Pace has a few payment plans to choose from:
 
