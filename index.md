@@ -11,12 +11,12 @@ Narrowing in this scope, Purdue University is continually making steps not only 
 
 You should use Pace if you're an undergraduate student, a graduate student, or a professor/teacher on Purdue University’s campus that needs a reliable transportation method. 
 
-# Pace is especially for you if:
+## Pace is especially for you if:
 
 * You prefer using a bicycle as your mode of transportation.
 * You do not own your own bike, longboard/skateboard, scooter, etc. 
 
-# Pace is available to you if:
+## Pace is available to you if:
 
 * You have a smartphone of some kind and are able to download Pace’s app on iOS or Android. 
 * You are able to afford the service’s fees and charges per use, or the monthly plans available for you to choose from. 
